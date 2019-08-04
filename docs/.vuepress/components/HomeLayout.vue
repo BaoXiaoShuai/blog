@@ -23,10 +23,10 @@
           <li>-> <span>slashYouthStudio</span>Ok is done</li>
           <li>-> <span>slashYouthStudio</span>Now. you can visit my blog! </li>
           <li>-> <span>slashYouthStudio</span>Choose one you want to go!</li>
-          <li>-> <span>slashYouthStudio</span><a href="/dier">BlogHomePage</a></li>
-          <li>-> <span>slashYouthStudio</span><a href="/dier">Photo</a></li>
-          <li>-> <span>slashYouthStudio</span><a href="/dier">Article</a></li>
-          <li>-> <span>slashYouthStudio</span><a href="/dier">Tag</a></li>
+          <li>-> <span>slashYouthStudio</span><a href="/blog/test">BlogHomePage</a></li>
+          <li>-> <span>slashYouthStudio</span><a href="/blog/test">Photo</a></li>
+          <li>-> <span>slashYouthStudio</span><a href="/blog/test">Article</a></li>
+          <li>-> <span>slashYouthStudio</span><a href="/blog/test">Tag</a></li>
           <li class="is-ali">
             😝
           </li>
